@@ -12,8 +12,8 @@ p {
   color: #004178;
 }
 
-.column {
-  align-items: center;
-  float: left;
-  width: 33.33%;
+footer{
+  text-align: center
 }
+
+
