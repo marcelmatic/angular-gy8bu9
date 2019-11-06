@@ -11,3 +11,9 @@ p {
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: #004178;
 }
+
+.column {
+  align-items: center;
+  float: left;
+  width: 33.33%;
+}
