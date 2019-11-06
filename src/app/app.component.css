@@ -1,3 +1,13 @@
+h1{
+  font-size: 60px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #004178;
+}
+
 p {
-  font-family: Lato;
+  font-size: 30px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #004178;
 }
